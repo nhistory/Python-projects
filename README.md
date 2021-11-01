@@ -1,5 +1,7 @@
 # 💻 Python Projects 🐍
 
+<!-- ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/nhistory/Python-projects) -->
+
 1. DiceRoller
     
     a simple application that when executed it displays a random lottery number
